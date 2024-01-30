@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alex-jensen-32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-jensen-32" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/alex-jensen32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alex-jensen32" height="30" width="40" /></a>
 <a href="https://instagram.com/nba__jenny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nba__jenny" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/wVX4ngKy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wVX4ngKy" height="30" width="40" /></a>
 </p>
