@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajensen32](https://github.com/ajensen32)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/alex-jensen32/](https://www.linkedin.com/in/alex-jensen32/)
+- 📝 I regularly write articles on **LinkedIn**.
 
 - 💬 Ask me about **front end development, C++**
 
