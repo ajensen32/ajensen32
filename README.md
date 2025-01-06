@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alex Jensen</h1>
-<h3 align="center">A passionate Web Developer from Minnesota</h3>
+<h3 align="center">A passionate Software Developer from Minnesota</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajensen32&label=Profile%20views&color=0e75b6&style=flat" alt="ajensen32" /> </p>
 
-- 🔭 I’m currently working on [network speed detector](https://ajensen32.github.io/Network-Speed/)
+- 🔭 I’m currently working on [an AI coding assisstant tool](https://ajensen32.github.io/)
 
-- 🌱 I’m currently learning **JQuery**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajensen32](https://github.com/ajensen32)
 
 - 📝 I regularly write articles on **LinkedIn**.
 
-- 💬 Ask me about **front end development, C++**
+- 💬 Ask me about **.NET Framework, C#, Machine Learning techniques**
 
 - 📫 How to reach me **jensenalex3022@gmail.com**
 
