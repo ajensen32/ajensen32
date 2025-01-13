@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [an AI coding assisstant tool](https://ajensen32.github.io/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning Techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajensen32](https://github.com/ajensen32)
 
 - 📝 I regularly write articles on **LinkedIn**.
 
-- 💬 Ask me about **.NET Framework, C#, Machine Learning techniques**
+- 💬 Ask me about **.NET Framework, React, Machine Learning techniques**
 
 - 📫 How to reach me **jensenalex3022@gmail.com**
 
